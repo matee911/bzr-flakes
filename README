@@ -1,0 +1,12 @@
+Project moved from Launchpad https://launchpad.net/bzr-flakes
+
+Dependencies:
+
+sudo pip install pyflakes
+
+
+Usage:
+
+bzr undefined
+
+bzr flakes-ignore settings.py
